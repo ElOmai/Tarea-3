@@ -1,0 +1,7 @@
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\obj\Debug\Ejercicios Cap 9,10y12.csprojAssemblyReference.cache
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\obj\Debug\Ejercicios Cap 9,10y12.csproj.CoreCompileInputs.cache
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\bin\Debug\Ejercicios Cap 9,10y12.exe.config
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\bin\Debug\Ejercicios Cap 9,10y12.exe
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\bin\Debug\Ejercicios Cap 9,10y12.pdb
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\obj\Debug\Ejercicios Cap 9,10y12.exe
+C:\Users\luiso\source\repos\Ejercicios Cap 9,10y12\Ejercicios Cap 9,10y12\obj\Debug\Ejercicios Cap 9,10y12.pdb
